@@ -21,7 +21,7 @@ public class L2022211826_6_Test {
     public void testPeopleIndexes_case1() {
         Solution6 solution = new Solution6();
         List<List<String>> favoriteCompanies = Arrays.asList(
-            Arrays.asList("leetcode", "google", "facebook"),
+            Arrays.asList("leetcode", "googl", "facebook"),//change in here
             Arrays.asList("google", "microsoft"),
             Arrays.asList("google", "facebook"),
             Arrays.asList("google"),
